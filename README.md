@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/31757267/131068055-aad22529-9ec7-48f7-8f92-aed402ccf5b9.png" />
+  <img src="https://raw.githubusercontent.com/Talhoid/orion/main/src/main/resources/assets/orion/logo.png" />
 </p>
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GhostTypes/orion)
